@@ -9,10 +9,5 @@ Creating a new branch is quick & simple.
 tttiititi.
 No bug tomorrow.
 Creating a new branch is quick AND simple.
-<<<<<<< HEAD
 Somebody will like you.
 aaaaaaa.
-=======
-Somebody will like you.
-aaaaaaa.
->>>>>>> feature1
